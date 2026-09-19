@@ -3,7 +3,7 @@
 Economics student at Linnaeus University, working where economics meets data —
 statistics, and the code needed to get at it.
 
-**Tools:** Python (pandas), R, SQL
+**Tools:** Python, R, SQL
 
 ### Projects
 
