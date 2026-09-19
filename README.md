@@ -13,4 +13,4 @@ around it. It reports a correlation with a confidence interval and a leave-one-o
 robustness check, so a number that cannot be distinguished from zero is reported as
 exactly that. Final project for [CS50P](https://cs50.harvard.edu/python/) (HarvardX).
 
-More as coursework turns into things worth publishing.
+
